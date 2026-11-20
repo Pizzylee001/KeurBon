@@ -3,11 +3,16 @@
 **Non-custodial, purpose-locked diaspora vouchers for Dakar built on Bitcoin Cashu (`NUT-4`, `NUT-7`, `NUT-11`, `NUT-12`) and zero-PII Nostr receipts (`kind 30078`).**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-0C5C44.svg)](LICENSE)
+[![Live Demo](https://img.shields.io/badge/Live%20App-keurbon.vercel.app-0C5C44.svg)](https://keurbon.vercel.app/)
+[![Demo Video](https://img.shields.io/badge/Demo%20Video-YouTube%20(2m%2054s)-C4302B.svg)](https://youtu.be/aTPkaIHO5HU)
 [![Protocols](https://img.shields.io/badge/Protocols-Cashu%20NUT--11%2F12%20%7C%20Nostr%2030078-9B5305.svg)](#cryptographic-protocol-stack)
 [![Stack](https://img.shields.io/badge/Stack-React%2019%20%7C%20TypeScript%20%7C%20Tailwind%20v4-0E1E2B.svg)](#tech-stack-and-pinned-dependencies)
 [![Languages](https://img.shields.io/badge/Languages-FR%20%7C%20EN-0C5C44.svg)](#5-route-product-map)
 
 Built for **Dakar Bitcoin Hack by BTrust 2026**.
+
+- **Live App:** [https://keurbon.vercel.app/](https://keurbon.vercel.app/)
+- **3-Minute Demo Video:** [https://youtu.be/aTPkaIHO5HU](https://youtu.be/aTPkaIHO5HU)
 
 ---
 
