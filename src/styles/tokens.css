@@ -1,0 +1,78 @@
+:root {
+  /* Color Palette: Dakar Architectural Daylight & Security-Paper Financial */
+  --ink-primary: #0E1E2B;
+  --ink-secondary: #3D515F;
+  --ink-muted: #4C616F;
+  --ink-on-solid: #FAFBF9;
+
+  --surface-canvas: #F1F4F2;
+  --surface-recessed: #E3E9E5;
+  --surface-voucher: #FAFBF9;
+  --surface-control: #FAFBF9;
+
+  --brand-emerald: #0C5C44;
+  --brand-emerald-hover: #094A36;
+  --brand-emerald-tint: #E5F2ED;
+
+  --accent-saffron-solid: #9B5305;
+  --accent-saffron-hover: #844604;
+  --accent-saffron-large: #B8650A;
+  --accent-saffron-decor: #D98218;
+  --accent-saffron-tint: #FBF2E6;
+
+  --semantic-destructive: #A62329;
+  --semantic-destructive-hover: #881C21;
+  --semantic-destructive-tint: #FBEBEC;
+
+  --border-hairline: #CFD8D4;
+  --border-strong: #637683;
+  --border-focus-ring: #0E1E2B;
+
+  /* Typography Families */
+  --font-display: 'Outfit', system-ui, -apple-system, sans-serif;
+  --font-body: 'Source Sans 3', system-ui, -apple-system, sans-serif;
+  --font-mono: 'JetBrains Mono', ui-monospace, SFMono-Regular, monospace;
+
+  /* Spacing Scale (4px / 8px Progression) */
+  --space-base: 4px;
+  --space-xs: 4px;
+  --space-sm: 8px;
+  --space-md: 16px;
+  --space-lg: 24px;
+  --space-xl: 32px;
+  --space-2xl: 48px;
+  --space-3xl: 64px;
+  --container-max: 1200px;
+  --gutter-mobile: 16px;
+  --gutter-desktop: 32px;
+
+  /* Radius Scale (Concentric Law) */
+  --radius-none: 0px;
+  --radius-control: 8px;
+  --radius-sheet: 12px;
+  --radius-stub-outer: 16px;
+  --radius-pill: 9999px;
+
+  /* Elevation Scale (Rule of One Elevation System) */
+  --elevation-flat: none;
+  --elevation-stub: 0 2px 4px rgba(14, 30, 43, 0.05), 0 14px 32px -12px rgba(14, 30, 43, 0.14);
+  --elevation-sheet-active: 0 4px 8px rgba(14, 30, 43, 0.06), 0 20px 44px -14px rgba(14, 30, 43, 0.18);
+
+  /* Motion Dials & Easing */
+  --ease-out: cubic-bezier(0.23, 1, 0.32, 1);
+  --ease-in-out: cubic-bezier(0.77, 0, 0.175, 1);
+  --duration-press: 120ms;
+  --duration-state: 180ms;
+  --duration-enter: 260ms;
+  --duration-seal: 420ms;
+  --press-scale: 0.97;
+  --enter-scale: 0.95;
+
+  /* Z-Index Scale */
+  --z-base: 0;
+  --z-sticky: 20;
+  --z-header: 40;
+  --z-drawer: 60;
+  --z-modal: 80;
+  --z-toast: 100;
+}
